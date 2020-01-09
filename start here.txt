@@ -1,0 +1,9 @@
+start
+
+npm install
+
+npm run serve
+
+when finished 
+
+npm run build
